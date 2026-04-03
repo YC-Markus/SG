@@ -1,6 +1,6 @@
 # Super-Gaussian: Multi-Contrast MRI Super-Resolution with Superpixel-Guided 2D Gaussian Tokenization
 
-This is an **anonymous repository** containing the official implementation of the paper: **Super-Gaussian: Multi-Contrast MRI Super-Resolution with Superpixel-Guided 2D Gaussian Tokenization**.
+This is a repository containing the official implementation of the paper: **Super-Gaussian: Multi-Contrast MRI Super-Resolution with Superpixel-Guided 2D Gaussian Tokenization**.
 
 ## ⚙️ Requirements
 
